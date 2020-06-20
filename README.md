@@ -1,7 +1,7 @@
 # 2020-first-order-mmrs
 # Reference: Malhotra, R., Zhang, N., On the Divergence of First Order ResonanceWidths at Low Eccentricities, MNRAS, accepted (June 15, 2020)
 
-Data files [plain text]: mmr21L.txt, mmr21b.txt,mmr32.txt,mmr32b.txt,mmr43.txt;
+Data file [plain text]: mmrs.txt;
 Code [supermongo] for figures 3,4,6,7: fig.sm
 
 Code [f90] for making surfaces of section (figures 2 and 5 in the MZ2020 paper) is in the zip file SurofSec.zip;

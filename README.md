@@ -1,5 +1,5 @@
 # 2020-first-order-mmrs
-# Reference: Malhotra, R., Zhang, N., On the Divergence of First Order ResonanceWidths at Low Eccentricities, MNRAS, accepted (June 15, 2020)
+# Reference: Malhotra, R., Zhang, N., On the Divergence of First Order Resonance Widths at Low Eccentricities, MNRAS, accepted (June 15, 2020)
 
 Data file [plain text]: mmrs.txt;
 Code [supermongo] for figures 3,4,6,7: fig.sm
